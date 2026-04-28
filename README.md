@@ -1,16 +1,19 @@
-## Hi there 👋
+## Iurii Pavlov
 
-<!--
-**yur1k1987/yur1k1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Production Software Engineer** – Python, C#, Svelte 5 typescript
+Saint-Petersburg, Russia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+
+Backend systems, cross-platform desktop applications, tools for developers. Pragmatic approach to architecture with emphasis on maintainability and performance.
+
+### Active Projects
+
+**[notepad](https://github.com/yur1k1987/notepad)** – Lightweight tabbed text editor with advanced encoding support. Built with Python and PySide6.
+
+### Contact
+
+- GitHub: [@yur1k1987](https://github.com/yur1k1987)
+- Email: [yuras1chek1987@gmail.com](mailto:yuras1chek1987@gmail.com)
